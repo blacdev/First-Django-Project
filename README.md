@@ -9,5 +9,5 @@
   <li>share link to others via email</li>
 </ul>
 All this was achieveable with the use of django and SMTP server(<a href="mailgun.com">mailgun</a>).
- Not to bore you much, <a href="https://djangoblac.herokuapp.com">here is a link to my blog</a>. Please leave a comment below.
+ Not to bore you much, <a href="djangoblac.herokuapp.com">here is a link to my blog</a>. Please leave a comment below.
 </p>
